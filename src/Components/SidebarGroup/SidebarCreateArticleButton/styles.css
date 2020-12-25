@@ -1,0 +1,9 @@
+.SidebarCreateArticleButton {
+  color: #0d0000;
+  text-align: center;
+  background-color: #fdd657;
+  margin: 8px;
+  border-radius: 4px;
+  padding: 4px;
+  cursor: pointer;
+}

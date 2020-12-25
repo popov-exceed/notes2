@@ -1,0 +1,13 @@
+.SidebarSearch {
+  text-align: center;
+  background-color: #343233;
+  border: none;
+  border-radius: 4px;
+  outline: 0;
+  padding: 4px;
+}
+
+.SidebarSearch:focus {
+  border: none;
+  color: #ffffff;
+}

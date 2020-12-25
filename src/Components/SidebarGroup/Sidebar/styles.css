@@ -1,0 +1,12 @@
+.Sidebar {
+  width: var(--sidebar-width);
+  background-color: #252525;
+  display: flex;
+  flex-direction: column;
+}
+
+.Sidebar__footer {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
